@@ -1,0 +1,6 @@
+{
+  "project": "bring-the-humans-03",
+  "framework": "github/spec-kit",
+  "version": "1.4.5",
+  "harness": "antigravity"
+}
